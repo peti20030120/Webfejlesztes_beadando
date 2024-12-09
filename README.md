@@ -1,4 +1,4 @@
-# Általános tudnivalók a projekt elkészítéséről
+# Általános tudnivalók a projektről
 - Szükséges hozzá az xampp letöltése.
 - Az XAMPP control panelben el kell indítani az apache, illetve MySQL szervereket.
 - A mappát be kell húzni a gépház > xampp > htdocs mappába ahhoz, hogy működőképes legyen.
